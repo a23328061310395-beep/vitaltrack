@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "385910156080",
+    "project_id": "vitaltrack-dd273",
+    "storage_bucket": "vitaltrack-dd273.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385910156080:android:8e1389f5b672e43294b6f5",
+        "android_client_info": {
+          "package_name": "com.example.vitaltrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApQ7GzRZY9yMSY3Av4gYXwmbnUCA2427I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
